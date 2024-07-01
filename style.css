@@ -85,3 +85,22 @@ thead{
     width: 50%;
 }
 
+.interest1{
+    margin-bottom: 10px;
+    background-image: url(img/monitor.jpg);
+}
+
+.interest2{
+    background-image: url(img/graph.jpg);
+}
+
+.interest1, .interest2{
+    color: white;
+    padding-left: 7px;
+    padding-top: 7px;
+    font-size: 13px;
+    width: 20%;
+    height: 100px;
+    background-size: 100% 100%;
+
+}

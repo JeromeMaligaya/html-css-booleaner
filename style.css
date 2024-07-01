@@ -3,8 +3,8 @@ body{
 }
 
 .container1{
-    width:680px;
-    max-width: 680px;
+    width:700px;
+    max-width: 968px;
     height: 1000px;
     margin:0 auto ;
 }
@@ -52,7 +52,36 @@ figure{
     background-color: yellow;
 }
 
+article{
+    font-size: 13px;
+}
+
 #loremlyst
 {
     padding-left: 0;
+    font-size: 13px;
 }
+
+table{
+    font-size: 13px;
+    text-align: left;
+    
+}
+
+thead{
+    color: white;
+    background-color: rgb(0, 140, 255);
+}
+
+.rowblue{
+    background-color: rgb(0, 251, 255);
+}
+
+.rowwight{
+    background-color: white;
+}
+
+.celllong{
+    width: 50%;
+}
+

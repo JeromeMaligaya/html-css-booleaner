@@ -2,22 +2,47 @@ body{
     margin: 0;
 }
 
-.container{
-    width:968px;
-    max-width: 968px;
+.container1{
+    width:680px;
+    max-width: 680px;
     height: 1000px;
     margin:0 auto ;
 }
 
 .titlebox{
-    height: 80px;
+    height: 70px;
     background-color: rgb(27, 105, 222);
     background-image: url(img/pattern.png);
     background-size: 250px;
     background-repeat: repeat-x;
+    margin-bottom: 0;
 }
 
 .imagetitle{
-    width:200px;
+    width:125px;
     margin-top: 15px;
+}
+
+
+.undertitle{
+    font-size: 15px;
+    color: #9E9E9E;
+}
+
+
+figure{
+    margin:0;
+    margin-top: 20px;
+}
+
+.image1{
+    width: 350px;
+}
+
+.image2{
+    width: 300px;
+}
+
+.imagestext{
+    font-size: 10px;
 }

@@ -33,6 +33,7 @@ body{
 figure{
     margin:0;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .image1{
@@ -45,4 +46,8 @@ figure{
 
 .imagestext{
     font-size: 10px;
+}
+
+.yellowing{
+    background-color: yellow;
 }

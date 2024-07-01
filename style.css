@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.container{
+    width:968px;
+    max-width: 968px;
+    height: 1000px;
+    margin:0 auto ;
+}
+
+.titlebox{
+    height: 80px;
+    background-color: rgb(27, 105, 222);
+    background-image: url(img/pattern.png);
+    background-size: 250px;
+    background-repeat: repeat-x;
+}
+
+.imagetitle{
+    width:200px;
+    margin-top: 15px;
+}
